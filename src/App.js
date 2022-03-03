@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from 'react';
-import './app.css';
+import './App.css';
 import arcsConfig from "@arcgis/core/config";
 import Map from "@arcgis/core/Map";
 import SceneView from "@arcgis/core/views/SceneView";
